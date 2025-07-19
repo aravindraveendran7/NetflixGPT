@@ -2,6 +2,8 @@
 
 - Login/signup
 - redirect to browse movies in page
+- Form validation
+- useRef Hook
 
 ## After Login(Authentication)
 

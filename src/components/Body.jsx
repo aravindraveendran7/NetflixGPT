@@ -28,3 +28,4 @@ const Body = () => {
 };
 
 export default Body;
+// This code sets up a React Router with three routes: Home, Login, and Browse.
